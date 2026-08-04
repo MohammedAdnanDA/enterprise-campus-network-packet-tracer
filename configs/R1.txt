@@ -27,7 +27,7 @@ ip dhcp pool A-Mgmt
  default-router 10.0.0.1
  option 43 ip 10.0.0.7
  dns-server 10.5.0.4
- domain-name wr
+ domain-name jeremysitlab.com
 !
 ip dhcp pool A-PC
  network 10.1.0.0 255.255.255.0
