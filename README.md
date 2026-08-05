@@ -1,4 +1,4 @@
-# CCNA Mega Lab – Enterprise Network Implementation
+# Multi-Site Enterprise Network Implementation – Cisco Packet Tracer
 
 Implementation, verification, security hardening, redundancy testing, and troubleshooting of a multi-site enterprise campus network using Cisco Packet Tracer.
 
